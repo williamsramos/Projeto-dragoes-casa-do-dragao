@@ -1,5 +1,3 @@
-# Nome do Projeto  
-ou
 <h1 align="center">Projeto Dragão - Semana do Zero ao Programador</h1>
 
 ## Descrição do Projeto
