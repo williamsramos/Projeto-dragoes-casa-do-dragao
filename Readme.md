@@ -4,7 +4,7 @@
 <p align="center">Projeto que será  desenvolvido junto ao Dev em Dobro na Semana do Zero ao Programado</p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  HTML,CSS E JS 🚀 Em construção...  🚧
 </h4>
 
 - [x] HTML: A BASE DO FRONTEND - INICIANDO O PROJETO
