@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Dragão - Semana do Zero ao Programador</h1>
+<h1 align="center">Projeto House of the Dragon - Semana do Zero ao Programador</h1>
 
 ## Descrição do Projeto
 <p align="center">Projeto que será  desenvolvido junto ao Dev em Dobro na Semana do Zero ao Programado</p>
