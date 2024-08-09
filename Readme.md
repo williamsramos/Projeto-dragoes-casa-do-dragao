@@ -9,15 +9,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsramos)](https://github.com/williamsramos/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamsramos&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsramos&hide=javascript,html)](https://github.com/williamsramos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamsramos&layout=compact)](https://github.com/williamsramos/github-readme-stats)
-
-
 <h4 align="center"> 
 	🚧  JS 🚀 Em construção...  🚧
 </h4>
