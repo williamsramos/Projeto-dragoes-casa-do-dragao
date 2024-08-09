@@ -101,3 +101,13 @@ main:after {
     background: linear-gradient(120deg, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0.05926120448179273) 50%, rgba(0, 0, 0, 1) 90%);
     z-index: -1;
 }
+
+.houseofthedragon {
+    text-align: center ;
+    font-size: 20px;
+    bottom: 10;
+    color: #ffffff;
+}
+.houseofthedragon  p img {
+	width: 30px;
+}
